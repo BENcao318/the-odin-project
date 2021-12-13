@@ -1,0 +1,32 @@
+p {
+  color: red;
+  font-size: 24px;
+}
+
+.small {
+  font-size: 13px;
+}
+
+.btn {
+  font-size: 24px;
+}
+
+.btn.confirm {
+  color: #fff;
+  background-color: green;
+  font-weight: bold;
+}
+
+.btn.cancel {
+  background-color: lightpink;
+}
+
+.text {
+  font-size: 36px;
+  color: green;
+}
+
+.text.child {
+  color: red;
+  font-size: 26px;
+}

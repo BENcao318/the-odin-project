@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+.numbers {
+    background-color: lightpink;
+}
+
+.numbers.numbers-cool {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-3 {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
